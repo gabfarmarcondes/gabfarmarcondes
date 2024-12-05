@@ -1,4 +1,4 @@
-## Olá👋! Gabriel aqui ☕
+## Olá✌️! Gabriel aqui ☕
 
 - 💻 Atualmente estudando Ciência da Computação pela UTFPR
 - 🚀 Foco em Back-end
@@ -39,5 +39,6 @@
 <a href="https://www.instagram.com/gabriel.fmarcondes/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-### Volte Sempre
-[![Michael Scott Wink](https://media.tenor.com/images/7c59e76ac79b6d0b2278b133ee8e7c2b/tenor.gif)](https://tenor.com/view/michael-scott-wink-cheers-toast-pointing-gif-16236516)
+### Volte Sempre👋! 
+<img height=250 alt="volteSempre" src="michael-scott-wink.gif">
+
