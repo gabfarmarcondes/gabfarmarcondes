@@ -29,6 +29,11 @@
 <a href="https://github.com/Software-Project-BCC3004/backend">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Software-Project-BCC3004&repo=backend&theme=dark" />
 </a>
+<a href="https://github.com/gabfarmarcondes/CRUD_Node_React">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=CRUD_Node_React&theme=dark" />
+</a>
+
+
 
 
 ### Contatos 🔗:
