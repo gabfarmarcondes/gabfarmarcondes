@@ -12,10 +12,10 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white)
 
 <a href="https://github.com/gabfarmarcondes/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabfarmarcondes&show_icons=true&theme=dark&cache_seconds=60" alt="gabfarmarcondes's GitHub stats" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=gabfarmarcondes&show_icons=true&theme=dark&cache_seconds=30" alt="gabfarmarcondes's GitHub stats" />
 </a>
 <a href="https://github.com/gabfarmarcondes/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfarmarcondes&layout=compact&theme=dark&cache_seconds=60" alt="gabfarmarcondes's most used languages" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfarmarcondes&layout=compact&theme=dark&cache_seconds=30" alt="gabfarmarcondes's most used languages" />
 </a>
 
 <br />
