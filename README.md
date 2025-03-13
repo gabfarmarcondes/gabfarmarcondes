@@ -30,18 +30,18 @@
 
 ### 🌟 Top Repositórios:
 <div align="center">
-  <a href="https://github.com/gabfarmarcondes/CRUD_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=CRUD_Project&theme=dark" />
-  </a>
   <a href="https://github.com/Software-Project-BCC3004/backend">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Software-Project-BCC3004&repo=backend&theme=dark" />
+  </a>
+    <a href="https://github.com/gabfarmarcondes/Aberto-Agora">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=Aberto-Agora&theme=dark" />
   </a>
   <br/>
   <a href="https://github.com/gabfarmarcondes/CRUD_Node_React">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=CRUD_Node_React&theme=dark" />
   </a>
-  <a href="https://github.com/gabfarmarcondes/Aberto-Agora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=Aberto-Agora&theme=dark" />
+    <a href="https://github.com/gabfarmarcondes/CRUD_Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=CRUD_Project&theme=dark" />
   </a>
 </div>
 
