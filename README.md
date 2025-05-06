@@ -37,8 +37,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=Aberto-Agora&theme=dark" />
   </a>
   <br/>
-  <a href="https://github.com/gabfarmarcondes/CRUD_Node_React">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=CRUD_Node_React&theme=dark" />
+  <a href="https://github.com/gabfarmarcondes/Furia-Bot">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=Furia-Bot&theme=dark" />
   </a>
     <a href="https://github.com/gabfarmarcondes/CRUD_Project">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=CRUD_Project&theme=dark" />
