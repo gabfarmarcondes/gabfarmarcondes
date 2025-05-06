@@ -40,8 +40,8 @@
   <a href="https://github.com/gabfarmarcondes/Furia-Bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=Furia-Bot&theme=dark" />
   </a>
-    <a href="https://github.com/gabfarmarcondes/CRUD_Project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=CRUD_Project&theme=dark" />
+    <a href="https://github.com/gabfarmarcondes/Project_CRUD">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=Project_CRUD&theme=dark" />
   </a>
 </div>
 
