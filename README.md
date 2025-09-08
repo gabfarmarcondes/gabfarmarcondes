@@ -37,11 +37,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=Aberto-Agora&theme=dark" />
   </a>
   <br/>
-  <a href="https://github.com/gabfarmarcondes/Furia-Bot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=Furia-Bot&theme=dark" />
-  </a>
-    <a href="https://github.com/gabfarmarcondes/Movie_BD">
+  <a href="https://github.com/gabfarmarcondes/Movie_BD">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=Movie_BD&theme=dark" />
+  </a>
+  <a href="https://github.com/gabfarmarcondes/EEG-MachineLearning-Kaggle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=EEG-MachineLearning-Kaggle&theme=dark" />
   </a>
 </div>
 
