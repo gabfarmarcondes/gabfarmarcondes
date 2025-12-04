@@ -32,3 +32,12 @@ jobs:
           
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          # Plugin: Repositórios em Destaque
+          plugin_repositories: yes
+          plugin_repositories_featured: Software-Project-BCC3004/backend, gabfarmarcondes/Aberto-Agora, gabfarmarcondes/Movie_BD, gabfarmarcondes/EEG-MachineLearning-Kaggle
+          
+          # Compacta a visualização para caber tudo bonito
+          plugin_repositories_pinned: 0
+          plugin_repositories_order: featured
+          plugin_repositories_starghazers: yes
