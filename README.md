@@ -18,7 +18,7 @@
 
 ### 📊 Visão Geral e Projetos:
 <div align="center">
-  <img src="github-metrics.svg" alt="Metrics" width="45%">
+  <img src="github-metrics.svg" alt="Metrics" width="60%">
 </div>
 
 ---
