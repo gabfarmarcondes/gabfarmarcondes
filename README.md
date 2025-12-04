@@ -16,27 +16,9 @@
 
 ---
 
-### 📊 Estatísticas Profissionais:
+### 📊 Visão Geral e Projetos:
 <div align="center">
   <img src="github-metrics.svg" alt="Metrics" width="45%">
-</div>
----
-
-### 🌟 Top Repositórios:
-<div align="center">
-  <a href="https://github.com/Software-Project-BCC3004/backend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Software-Project-BCC3004&repo=backend&theme=dark" />
-  </a>
-    <a href="https://github.com/gabfarmarcondes/Aberto-Agora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=Aberto-Agora&theme=dark" />
-  </a>
-  <br/>
-  <a href="https://github.com/gabfarmarcondes/Movie_BD">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=Movie_BD&theme=dark" />
-  </a>
-  <a href="https://github.com/gabfarmarcondes/EEG-MachineLearning-Kaggle">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gabfarmarcondes&repo=EEG-MachineLearning-Kaggle&theme=dark" />
-  </a>
 </div>
 
 ---
