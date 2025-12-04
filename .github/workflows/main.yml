@@ -1,0 +1,35 @@
+name: Metrics
+on:
+  # Roda a cada 24 horas (meia-noite)
+  schedule: [{cron: "0 0 * * *"}]
+  # Permite rodar manualmente se você quiser testar agora
+  workflow_dispatch:
+  # Roda sempre que você der push na main
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Seu token secreto que criamos
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Opções visuais (Dark Mode)
+          user: gabfarmarcondes
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: America/Sao_Paulo
+          
+          # Plugin: Linguagens (Substitui aquela barra colorida)
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css
+          plugin_languages_limit: 8
+          
+          # Plugin: Conquistas (Trophies)
+          plugin_achievements: yes
+          plugin_achievements_display: compact
