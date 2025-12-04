@@ -16,16 +16,10 @@
 
 ---
 
-### 📊 Estatísticas do GitHub:
+### 📊 Estatísticas Profissionais:
 <div align="center">
-  <a href="https://github.com/gabfarmarcondes/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabfarmarcondes&show_icons=true&theme=dark&cache_seconds=31" alt="gabfarmarcondes's GitHub stats" />
-  </a>
-  <a href="https://github.com/gabfarmarcondes/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfarmarcondes&layout=compact&theme=dark&cache_seconds=31" alt="gabfarmarcondes's most used languages" />
-  </a>
+  <img src="github-metrics.svg" alt="Metrics" width="45%">
 </div>
-
 ---
 
 ### 🌟 Top Repositórios:
