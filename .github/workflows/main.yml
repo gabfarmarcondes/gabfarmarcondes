@@ -30,6 +30,5 @@ jobs:
             html, css
           plugin_languages_limit: 8
           
-          # Plugin: Conquistas (Trophies)
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
