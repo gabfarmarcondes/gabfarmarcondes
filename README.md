@@ -1,8 +1,8 @@
 ## Olá ✌️! Gabriel aqui ☕
 
 - 💻 Atualmente estudando Ciência da Computação pela UTFPR  
-- 🚀 Foco em Back-end  
-- ⚡ Java e Spring Boot  
+- 🚀 Foco em Back-end e Ciência de Dados  
+- ⚡ Java e Spring Boot e Python  
 
 ---
 
