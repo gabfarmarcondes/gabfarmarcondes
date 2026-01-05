@@ -36,7 +36,7 @@ jobs:
           # Plugin: Seus Top Repositórios (Aqui está a mágica!)
           plugin_repositories: yes
           # Lista exata dos repositórios que você quer mostrar
-          plugin_repositories_featured: Software-Project-BCC3004/backend, gabfarmarcondes/Aberto-Agora, gabfarmarcondes/Movie_BD, gabfarmarcondes/EEG-MachineLearning-Kaggle
+          plugin_repositories_featured: Software-Project-BCC3004/backend, gabfarmarcondes/Detectar-Burnout-via-EEG, gabfarmarcondes/Movie_BD, gabfarmarcondes/EEG-MachineLearning-Kaggle
           
           # Configuração visual
           plugin_repositories_pinned: 0
