@@ -15,7 +15,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Seu token secreto que criamos
+          # Seu token secreto
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Opções visuais (Dark Mode)
@@ -24,21 +24,25 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           
-          # Plugin: Linguagens (Substitui aquela barra colorida)
+          # Plugin: Linguagens
           plugin_languages: yes
           plugin_languages_ignored: >-
             html, css
           plugin_languages_limit: 8
           
+          # Plugin: Calendário Isométrico
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-          # Plugin: Seus Top Repositórios (Aqui está a mágica!)
+          # Plugin: Seus Top Repositórios
           plugin_repositories: yes
-          # Lista exata dos repositórios que você quer mostrar
+          # Lista exata dos repositórios
           plugin_repositories_featured: Software-Project-BCC3004/backend, gabfarmarcondes/Movie_BD, gabfarmarcondes/Detectar-Burnout-via-EEG, gabfarmarcondes/EEG-MachineLearning-Kaggle
           
-          # Configuração visual
+          # Configuração visual dos repositórios
           plugin_repositories_pinned: 0
           plugin_repositories_order: featured
-          plugin_repositories_starghazers: yes
+          
+          # Plugin: Gráfico de Estrelas
+          plugin_stargazers: yes
+          plugin_stargazers_charts_type: classic
