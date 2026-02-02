@@ -1,12 +1,12 @@
-## Olá ✌️! Gabriel aqui ☕
+## Olá ✌️! Gabriel Here ☕
 
-- 💻 Atualmente estudando Ciência da Computação pela UTFPR  
-- 🚀 Foco em Back-end e Ciência de Dados  
-- ⚡ Java e Spring Boot e Python  
+- 💻 Currently studying Computer Science at the Federal Technological University of Ṕaraná
+- 🚀 Focus on Back-end and Data Science
+- ⚡ Java/Spring Boot & Python  
 
 ---
 
-### 🚀 Tecnologias Principais:
+### 🚀 Main Technologies:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
@@ -19,14 +19,14 @@
 
 ---
 
-### 📊 Visão Geral e Projetos:
+### 📊 Overview and Projects:
 <div align="center">
   <img src="github-metrics.svg" alt="Metrics" width="60%">
 </div>
 
 ---
 
-### 📬 Contatos:
+### 📬 Contacts:
 <div>
   <a href="https://www.linkedin.com/in/gabfariasmarcondes" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -41,7 +41,7 @@
 
 ---
 
-### 👋 Volte Sempre!
+### 👋 Come Back Anytime!
 <div align="center">
   <img height=250 alt="volteSempre" src="michael-scott-wink.gif">
 </div>
