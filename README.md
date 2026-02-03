@@ -1,4 +1,4 @@
-## Olá ✌️! Gabriel Here ☕
+## Hello ✌️! Gabriel Here ☕
 
 - 💻 Currently studying Computer Science at the Federal Technological University of Ṕaraná
 - 🚀 Focus on Back-end and Data Science
