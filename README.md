@@ -51,7 +51,7 @@ Computer Science undergraduate at the **Federal University of Technology – Par
 <table align="center">
   <tr>
     <td>
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabfarmarcondes&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+      <img height="170" src="https://github-stats-extended.vercel.app/api?username=gabfarmarcondes&show_icons=true&theme=tokyonight&hide_border=true" />
     </td>
     <td>
       <img height="170" src="https://streak-stats.demolab.com/?user=gabfarmarcondes&theme=tokyonight&hide_border=true" />
@@ -59,7 +59,7 @@ Computer Science undergraduate at the **Federal University of Technology – Par
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabfarmarcondes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Movie_BD,Software-Project-BCC3004&card_width=480" />
+      <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=gabfarmarcondes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Movie_BD,Software-Project-BCC3004&card_width=480" />
     </td>
   </tr>
 </table>
